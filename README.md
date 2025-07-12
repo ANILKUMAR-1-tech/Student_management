@@ -33,5 +33,5 @@ src/
 
 **Anil Kumar**  
 📧 anilkumarnagisetty0045@example.com  
-🔗 [LinkedIn Profile](www.linkedin.com/in/anilkumarnagisetty)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/anilkumarnagisetty)
 
