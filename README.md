@@ -32,6 +32,6 @@ src/
 ## Author
 
 **Anil Kumar**  
-📧 anil@example.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/anil-kumar-dev)
+📧 anilkumarnagisetty0045@example.com  
+🔗 [LinkedIn Profile](www.linkedin.com/in/anilkumarnagisetty)
 
